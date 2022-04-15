@@ -1,4 +1,4 @@
-:tw-1f534:# **Ensayo reflexivo**:tw-1f534:
+:smile: **Ensayo reflexivo** :smile:
 
 ------------
 **ESTE REPOSITORIO ME AYUDA A SEGUIR PRACTICANDO GIT Y GIT HUB.**
